@@ -2,6 +2,7 @@ var cacheName = 'maria-pwa';
 var filesToCache = [
   '/',
   '/index.html',
+  '/another.html'
 ];
 
 /* Cache contents when Offline See Cache */
